@@ -1,0 +1,9 @@
+label {
+  display: inline-block;
+  min-width: 80px;
+}
+.note {
+  color: #e6e6e6;
+  font-size: small;
+  font-style: italic;
+}
